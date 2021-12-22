@@ -1,0 +1,157 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.1052; Version 2004; 64bit' Language: 'tr' Physical Memory: 12180 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/YAZICI/hafizaProje
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51984
+Successfully changed project path to: C:/Users/YAZICI/hafizaProje
+C:/Users/YAZICI/hafizaProje
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/YAZICI/hafizaProje/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   
+    VRAM:     4055 MB
+    Driver:   27.21.14.6079
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56480
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002392 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 50.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.416 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001869 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 45.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.214 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1826 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.2 MB.
+System memory in use after: 87.1 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2269.
+Total: 3.057300 ms (FindLiveObjects: 0.487300 ms CreateObjectMapping: 0.150400 ms MarkObjects: 2.180600 ms  DeleteObjects: 0.237900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sahneler/Level a1.unity
+  artifactKey: Guid(02bdabf81f7f0ae468e8306d7d634dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sahneler/Level a1.unity using Guid(02bdabf81f7f0ae468e8306d7d634dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86bd454a73ce023370f62fca18991b12') in 0.020483 seconds
+  Import took 0.024181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Sahneler/Level a2.unity
+  artifactKey: Guid(efdbb76a61d99cf4d84fa07f19d7f016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sahneler/Level a2.unity using Guid(efdbb76a61d99cf4d84fa07f19d7f016) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb1f6e86d376146fdd15a2491aacde4') in 0.003322 seconds
+  Import took 0.006352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.420719 seconds.
+  path: Assets/Sahneler/Level a3.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sahneler/Level a3.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7308c3accf1107b10ff673ba910c1f15') in 0.006464 seconds
+  Import took 0.010866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.496949 seconds.
+  path: Assets/Sahneler/Level b1.unity
+  artifactKey: Guid(0033e7be350cc9e4e85b21b087aabc13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sahneler/Level b1.unity using Guid(0033e7be350cc9e4e85b21b087aabc13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c88f94c1f27f5ef74f1769c1b5a0bb9') in 0.011077 seconds
+  Import took 0.015670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.473146 seconds.
+  path: Assets/Sahneler/Level b2.unity
+  artifactKey: Guid(024b9b3c94c1b004bab1e34e4e797ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sahneler/Level b2.unity using Guid(024b9b3c94c1b004bab1e34e4e797ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fea4850837181aef7ba499d87c6f4b0') in 0.010407 seconds
+  Import took 0.015421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001349 seconds.
+  path: Assets/Sahneler/Level b2.unity
+  artifactKey: Guid(024b9b3c94c1b004bab1e34e4e797ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sahneler/Level b2.unity using Guid(024b9b3c94c1b004bab1e34e4e797ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fea4850837181aef7ba499d87c6f4b0') in 0.003815 seconds
+  Import took 0.008649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.215150 seconds.
+  path: Assets/Sahneler/Level b3.unity
+  artifactKey: Guid(8ed1eab340f766847b45fc293f6edd79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sahneler/Level b3.unity using Guid(8ed1eab340f766847b45fc293f6edd79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '730cd57795af301866c8cbc8d6383ede') in 0.011064 seconds
+  Import took 0.014927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011247 seconds.
+  path: Assets/Sahneler/Level b3.unity
+  artifactKey: Guid(8ed1eab340f766847b45fc293f6edd79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sahneler/Level b3.unity using Guid(8ed1eab340f766847b45fc293f6edd79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '730cd57795af301866c8cbc8d6383ede') in 0.003758 seconds
+  Import took 0.008211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 835.247231 seconds.
+  path: Assets/OyunKontrol.cs
+  artifactKey: Guid(376eb1b7eb1c1a54d94e92467c5e0698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/OyunKontrol.cs using Guid(376eb1b7eb1c1a54d94e92467c5e0698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61d830ce70e382e860782a2b789ea8fd') in 0.079921 seconds
+  Import took 0.084521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043710 seconds.
+  path: Assets/Script/anamenukontrol.cs
+  artifactKey: Guid(fc32a2f33c2d0ca4893b4b88a82f4638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/anamenukontrol.cs using Guid(fc32a2f33c2d0ca4893b4b88a82f4638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3460bb66fd63cff6cd1f6e627e1cd24') in 0.007713 seconds
+  Import took 0.011286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.119609 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48d1d8c18dad78b6f2f2181be0a3f564') in 0.141283 seconds
+  Import took 0.144685 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
